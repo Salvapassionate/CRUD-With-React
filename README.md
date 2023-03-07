@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://salvapassionate.github.io/CRUD-With-React/).
+This project was bootstrapped with [View Web App](https://salvapassionate.github.io/CRUD-With-React/).
+
+Nota: Mayormente no se visualiza pagina web hecho con react , en ese caso se podria con localhost haciendo una clonacion del proyecto.
 
 ## Available Scripts
 
